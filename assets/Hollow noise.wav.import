@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hollow noise.wav-00a8a9ee12a57a45d5db4a626ea5d1ee.sample"
+
+[deps]
+
+source_file="res://assets/Hollow noise.wav"
+dest_files=[ "res://.import/Hollow noise.wav-00a8a9ee12a57a45d5db4a626ea5d1ee.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
